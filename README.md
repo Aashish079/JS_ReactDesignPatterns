@@ -1,5 +1,3 @@
-# Assignment:
-
 # What are Design Patterns and why do we need them?
 
 *Design Patterns* are fundamental part of software development, as they provide typical solutions to commonly recurring problems in software design. Rather than providing specific pieces of software.
@@ -13,7 +11,7 @@ Design patterns fall into three broad categories:
 2. **Structural Patterns**: Focus on the composition of classes or objects (e.g., Adapter, Composite).
 3. **Behavioral Patterns**: Focus on object interaction and communication (e.g., Observer, Command).
 
-![image.png](Assignment%2011f95b340d2880869747f614c07db9ff/image.png)
+![image.png](/Assets/Flowchart1.png)
 
 # Why Are They Useful?
 
